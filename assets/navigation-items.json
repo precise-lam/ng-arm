@@ -1,0 +1,41 @@
+[
+  {
+    "items": [
+      { "label": "All Requisitions", "icon": "view_list" },
+      { "label": "Saved", "icon": "save", "selected": true },
+      { "label": "Submitted", "icon": "outbox" },
+      { "label": "Approval", "icon": "check_circle" }
+    ]
+  },
+  {
+    "items": [
+      { "label": "Standing Orders", "icon": "history" },
+      { "label": "Templates", "icon": "file_copy", "disabled": true },
+      { "label": "RFQs", "icon": "format_quote" },
+      { "label": "PO Suggestions", "icon": "tune" }
+    ]
+  },
+  {
+    "items": [
+      { "label": "PFOs", "icon": "note" },
+      { "label": "BLPFOs", "icon": "description" },
+      { "label": "PO Creation", "icon": "shopping_cart", "disabled": true },
+      { "label": "POs", "icon": "receipt_long" },
+      { "label": "Receiving", "icon": "local_shipping" },
+      { "label": "Transfers", "icon": "forklift" },
+      { "label": "Search Attachments", "icon": "attach_file" }
+    ]
+  },
+  {
+    "items": [
+      { "label": "OCR Dashboard", "icon": "document_scanner" },
+      { "label": "AP Invoices", "icon": "attach_money" }
+    ]
+  },
+  {
+    "items": [
+      { "label": "Integration", "icon": "integration_instructions" },
+      { "label": "Administration", "icon": "settings" }
+    ]
+  }
+]
